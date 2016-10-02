@@ -45,6 +45,6 @@ def challenge(team1, team2):
         print("Team 2 progresses")
 
     
-    elif team1 < 120 and team2 < 120:
+    else:
         print("Both teams progress")
     
